@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":[],"mappings":"AAAA,IAAI,IAAI,QAAQ,YAAR,CAAJ;;AAGJ,SAAS,IAAT,GAAgB;AACZ,YAAQ,GAAR,CAAY,CAAZ,EADY;CAAhB;;AAIA,OAAO,OAAP,GAAkB;AACd,UAAM,IAAN;CADJ","file":"index-compiled.js","sourcesContent":["var _ = require('underscore');\n\n\nfunction html() {\n    console.log(_)\n}\n\nmodule.exports  = {\n    html: html\n};"]}
