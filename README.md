@@ -56,7 +56,6 @@ takes an array of strings and returns a string of a ul and li's representing eac
 ```javascript
 myPackage.ul([Array]);
 ```
-<<<<<<< HEAD
 html:
 takes any number of strings that represent html content as arguments and generates a index.html file containing them.
 <br />
